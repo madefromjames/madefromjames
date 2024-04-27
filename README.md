@@ -3,7 +3,7 @@
 ## Hi there, I'm [James](https://madefromjames.github.io) 👋
 
 <a href="https://madefromjames.github.io" target="_blank">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmdrMzJucnNsMDlvbmNjeno1OXVhY2wwc3htMG02aG50ZDZ5bnJ6NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="200"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmdrMzJucnNsMDlvbmNjeno1OXVhY2wwc3htMG02aG50ZDZ5bnJ6NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="230"/>
 </a><br>
 
 <a href="https://madefromjames.github.io" target="_blank">
