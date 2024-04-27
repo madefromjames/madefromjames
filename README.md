@@ -3,6 +3,9 @@
 ### Hi there, I'm [James](madefromjames.github.io) 👋
 
 ![Static Badge](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=joplin&link=madefromjames.github.io)
+<a href="https://madefromjames.github.io" target="_blank">
+<img alt="Static Badge" src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=joplin">
+</a>
 
 ---
 
