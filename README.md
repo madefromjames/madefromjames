@@ -1,10 +1,9 @@
 <div align='center'>
 
-### Hi there, I'm [James](madefromjames.github.io) 👋
+### Hi there, I'm [James](https://madefromjames.github.io) 👋
 
-![Static Badge](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=joplin&link=madefromjames.github.io)
 <a href="https://madefromjames.github.io" target="_blank">
-<img alt="Static Badge" src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=joplin">
+<img alt="Static Badge" src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=joplin&color=%23424242">
 </a>
 
 ---
@@ -20,23 +19,16 @@
     - **Open Source Contribution:** Finding beginner-friendly open source projects needing documentation or coding help.
     - **Career Guidance:** Connecting with industry professionals who can offer insights into the tech job market and career planning.
   
-<!-- <div align='center'> -->
+<div align='center'>
     
 ### 📫 How to reach me:
 ![Static Badge](https://img.shields.io/badge/Email-white?style=flat&logo=gmail) ![Static Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin) ![Static Badge](https://img.shields.io/badge/Twitter-white?style=flat&logo=twitter)
 
----
- 
-### My Projects
-**Stock Market:** A brief description of what it does and the technologies used.
-**Project Name 2:** What I learned from this project and how it pushed my limits.
-**Project Name 3:** How this project addresses a real-world problem.
-
-For a more comprehensive look at all my projects, check out My Project Portfolio.
+</div>
 
 ---
 
-### 🛠 &nbsp;Languages and Tools :
+### 🛠 &nbsp;Languages and Tools 
 
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" alt="Python" width="40" height="40"/>&nbsp;
