@@ -1,14 +1,18 @@
 <div align='center'>
 
-### Hi there, I'm [James](https://madefromjames.github.io) 👋
+## Hi there, I'm [James](https://madefromjames.github.io) 👋
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmdrMzJucnNsMDlvbmNjeno1OXVhY2wwc3htMG02aG50ZDZ5bnJ6NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="200"/><br>
 
 <a href="https://madefromjames.github.io" target="_blank">
-<img alt="Static Badge" src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=joplin&color=%23424242">
-</a>
+<img alt="Static Badge" src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=joplin&color=%23003140">
+</a><br><br>
+
+![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
 
 ---
 
-### I'm constantly working on myself
+## I'm constantly working on myself
 
 </div>
 
@@ -21,14 +25,20 @@
   
 <div align='center'>
     
-### 📫 How to reach me:
-![Static Badge](https://img.shields.io/badge/Email-white?style=flat&logo=gmail) ![Static Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin) ![Static Badge](https://img.shields.io/badge/Twitter-white?style=flat&logo=twitter)
-
-</div>
+## 📫 How to reach me:
+<a href="https://madefromjames@gmail.com" target="_blank">
+<img alt="Static Badge" src="https://img.shields.io/badge/Gmail-white?style=flat&logo=gmail">
+</a>
+<a href="https://www.linkedin.com/in/madefromjames/" target="_blank">
+<img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin">
+</a>
+<a href="https://twitter.com/madefromjames" target="_blank">
+<img alt="Static Badge" src="https://img.shields.io/badge/Twitter-white?style=flat&logo=twitter">
+</a>
 
 ---
 
-### 🛠 &nbsp;Languages and Tools 
+## 🛠 &nbsp;Languages and Tools 
 
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" alt="Python" width="40" height="40"/>&nbsp;
