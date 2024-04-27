@@ -2,13 +2,15 @@
 
 ## Hi there, I'm [James](https://madefromjames.github.io) 👋
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmdrMzJucnNsMDlvbmNjeno1OXVhY2wwc3htMG02aG50ZDZ5bnJ6NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="200"/><br>
+<a href="https://madefromjames.github.io" target="_blank">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmdrMzJucnNsMDlvbmNjeno1OXVhY2wwc3htMG02aG50ZDZ5bnJ6NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="200"/>
+</a><br>
 
 <a href="https://madefromjames.github.io" target="_blank">
 <img alt="Static Badge" src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=joplin&color=%23003140">
 </a><br><br>
 
-![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
+![](https://komarev.com/ghpvc/?username=your-github-username&color=red)
 
 ---
 
@@ -58,10 +60,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytest/pytest-original.svg" width="40" height="40"/>&nbsp;
 </p>
 
-
-<!--
-
-- 💬 Ask me about ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=madefromjames&custom_title=Github%20Stats&theme=gotham&show_icons=true)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=madefromjames&theme=gotham)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=madefromjames&layout=compact&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
