@@ -60,6 +60,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytest/pytest-original.svg" width="40" height="40"/>&nbsp;
 </p>
 
+![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=gotham)
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=madefromjames&custom_title=Github%20Stats&theme=gotham&show_icons=true)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=madefromjames&theme=gotham)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=madefromjames&layout=compact&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
