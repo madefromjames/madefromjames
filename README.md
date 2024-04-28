@@ -10,7 +10,7 @@
 <img alt="Static Badge" src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=joplin&color=%23003140">
 </a><br><br>
 
-![](https://komarev.com/ghpvc/?username=your-github-username&color=red)
+![](https://komarev.com/ghpvc/?username=your-github-username&color=red&base=1000)
 
 ---
 
