@@ -7,7 +7,7 @@
 </a><br>
 
 <a href="https://madefromjames.github.io" target="_blank">
-<img alt="Static Badge" src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=joplin&color=%23003140">
+<img alt="Static Badge" src="https://img.shields.io/badge/Website-black?style=for-the-badge&color=%23003140">
 </a><br><br>
 
 ![](https://komarev.com/ghpvc/?username=your-github-username&color=red&abbreviated=true)
