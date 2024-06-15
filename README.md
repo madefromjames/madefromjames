@@ -18,7 +18,7 @@
 
 </div>
 
-- 🔭 I’m currently working on a Javascript project - *Designing a front-end for an email client that makes API calls to send and receive emails.*
+- 🔭 I’m currently working on a project - *Designing a Twitter-like social network website for making posts and following users.*
 - 🌱 I’m currently learning and diving deeper into `JavaScript` and more
 - 👯 I’m looking to collaborate on `Python | Django, Flask, Fast-API` - and for any other tool you might be using, I’m keen to learn and adapt.
 - 🤔 I’m looking for help with:
